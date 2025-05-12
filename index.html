@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en" class="no-copy">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Malware Corporation</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    
+    <!-- Modern fonts connection -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+    <!-- Meta tags to prevent caching and indexing -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<body class="no-copy">
+    <div class="container">
+        <header>
+            <div class="header-logo">
+                <img src="logo/mcorplogo.jpg" alt="Logo">
+            </div>
+            <h1 class="site-title"></h1>
+            <p class="site-subtitle"></p>
+            
+            <!-- Catalog search -->
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="">
+                <button id="search-button"><i class="fas fa-search"></i></button>
+            </div>
+        </header>
+
+        <input type="radio" name="tabs" id="tab1" class="tab-input" checked>
+        <input type="radio" name="tabs" id="tab2" class="tab-input">
+        <input type="radio" name="tabs" id="tab3" class="tab-input">
+        <input type="radio" name="tabs" id="tab4" class="tab-input">
+        <input type="radio" name="tabs" id="tab5" class="tab-input">
+
+        <div class="tabs">
+            <label for="tab1" class="tab-label" data-tab="channels"></label>
+            <label for="tab2" class="tab-label" data-tab="shops"></label>
+            <label for="tab3" class="tab-label" data-tab="groups"></label>
+            <label for="tab4" class="tab-label" data-tab="private"></label>
+            <label for="tab5" class="tab-label" data-tab="pricing"></label>
+        </div>
+
+        <div id="content1" class="tab-content">
+            <div class="link-cards"></div>
+        </div>
+
+        <div id="content2" class="tab-content">
+            <div class="link-cards"></div>
+        </div>
+
+        <div id="content3" class="tab-content">
+            <div class="link-cards"></div>
+        </div>
+
+        <div id="content4" class="tab-content">
+            <div class="link-cards"></div>
+        </div>
+
+        <div id="content5" class="tab-content">
+            <div class="pricing-container">
+                <h2 class="pricing-title">Advertising Pricing</h2>
+                <div class="pricing-cards"></div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 id="footer-about-title"></h3>
+                    <p id="about-text"></p>
+                </div>
+                <div class="footer-section">
+                    <h3 id="footer-contacts-title"></h3>
+                    <div class="secure-contacts">
+                        <div class="contact-item" data-contact-type="telegram">
+                            <i class="fas fa-paper-plane"></i> 
+                            <span class="contact-label" data-contact-type="telegram"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div class="contact-item" data-contact-type="jabber">
+                            <i class="fas fa-comment-dots"></i> 
+                            <span class="contact-label" data-contact-type="jabber"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div class="contact-item" data-contact-type="tox">
+                            <i class="fas fa-shield-alt"></i>
+                            <span class="contact-label" data-contact-type="tox"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div class="contact-item" data-contact-type="pgp">
+                            <i class="fas fa-key"></i>
+                            <span class="contact-label" data-contact-type="pgp"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div class="contact-item" data-contact-type="matrix">
+                            <i class="fas fa-comment-alt"></i>
+                            <span class="contact-label" data-contact-type="matrix"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div class="contact-item" data-contact-type="session">
+                            <i class="fas fa-lock"></i>
+                            <span class="contact-label" data-contact-type="session"></span>
+                            <span class="contact-value" data-full=""></span>
+                            <div class="contact-buttons">
+                                <button class="copy-btn" onclick="copyContactValue(this)"><i class="fas fa-copy"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h3 id="footer-forums-title"></h3>
+                    <div class="forums-list">
+                        <!-- Links will be added from config.json -->
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p id="footer-copyright"></p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- "Back to top" button -->
+    <button id="back-to-top" title="Back to top"><i class="fas fa-arrow-up"></i></button>
+    
+    <!-- "Subscribe to all channels" button -->
+    <button id="subscribe-all"><i class="fas fa-rss"></i> <span id="subscribe-all-text"></span></button>
+
+    <!-- Modal window for contacts -->
+    <div id="contact-modal" class="contact-modal">
+        <div class="contact-modal-content">
+            <span class="contact-modal-close">&times;</span>
+            <h2 class="contact-modal-title">Contact Us</h2>
+            <div class="modal-contacts">
+                <!-- Contacts will be added through JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Script for clipboard copying and content protection -->
+    <script>
+        // Text copy protection
+        document.addEventListener('selectstart', function(e) {
+            if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+                e.preventDefault();
+            }
+        });
+        
+        document.addEventListener('contextmenu', function(e) {
+            e.preventDefault();
+        });
+
+        // Function to copy contact value
+        function copyContactValue(element) {
+            // Find parent element - contact-item
+            const contactItem = element.closest('.contact-item');
+            if (!contactItem) return;
+            
+            // Find element with full contact value
+            const valueElement = contactItem.querySelector('.contact-value');
+            if (!valueElement) return;
+            
+            // Get full value
+            const fullValue = valueElement.getAttribute('data-full');
+            if (!fullValue) return;
+            
+            // Copy to clipboard
+            navigator.clipboard.writeText(fullValue)
+                .then(() => {
+                    // Show notification of successful copy
+                    const iconElement = element.querySelector('i');
+                    if (iconElement) {
+                        const originalIcon = iconElement.className;
+                        iconElement.className = 'fas fa-check';
+                        setTimeout(() => {
+                            iconElement.className = originalIcon;
+                        }, 1500);
+                    }
+                })
+                .catch(err => {
+                    console.error('Error copying text: ', err);
+                });
+        }
+
+        // Function to create and copy contact link
+        function shareContact(element) {
+            // Find parent element - contact-item
+            const contactItem = element.closest('.contact-item');
+            if (!contactItem) return;
+            
+            // Get contact type
+            const contactType = contactItem.getAttribute('data-contact-type');
+            if (!contactType) return;
+            
+            // Create URL with anchor for contact
+            const slug = contactType;
+            const url = `${window.location.origin}${window.location.pathname}#contact-${slug}`;
+            
+            // Copy URL to clipboard
+            navigator.clipboard.writeText(url)
+                .then(() => {
+                    // Show notification of successful copy
+                    const iconElement = element.querySelector('i');
+                    if (iconElement) {
+                        const originalIcon = iconElement.className;
+                        iconElement.className = 'fas fa-check';
+                        setTimeout(() => {
+                            iconElement.className = originalIcon;
+                        }, 1500);
+                    }
+                })
+                .catch(err => {
+                    console.error('Error copying URL: ', err);
+                });
+        }
+    </script>
+    
+    <!-- Main script - used for compatibility with different servers 
+    <script src="script.js"></script>
+    -->
+    
+    <!-- Modular JavaScript version - used for development -->
+    <script type="module" src="js/index.js"></script>
+</body>
+</html>
