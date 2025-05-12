@@ -1,0 +1,70 @@
+{
+  "id": "pricing",
+  "name": "Advertising",
+  "items": [
+    {
+      "title": "Standard Plan",
+      "price": "$400",
+      "description": "24 hours of promotion across all channels",
+      "features": [
+        "Pinned promotional post for the entire campaign duration",
+        "Unlimited text length",
+        "Photos, videos, buttons, and links — no limits",
+        "Custom ad creative based on your materials",
+        "Support for UTM tags and link tracking",
+        "Priority placement at the top of the channel",
+        "No 'sponsored' label on your post",
+        "Option for exclusive placement (no competitors)",
+        "Basic statistics on reach and engagement",
+        "24/7 technical support",
+        "Discounts for long-term campaigns"
+      ],
+      "contactModal": true
+    },
+    {
+      "title": "Premium Package",
+      "price": "$1000",
+      "description": "1 week of promotion across all channels",
+      "features": [
+        "All features from the Standard Plan",
+        "Promotional text under each post",
+        "Ability to update your ad during the campaign",
+        "Up to 3 bot-based mass mailings from our network",
+        "Advanced media formats: GIFs, carousels, interactive buttons",
+        "Detailed analytics on clicks and engagement",
+        "Dedicated account manager throughout the campaign",
+        "Retargeting to active audience for higher response"
+      ],
+      "contactModal": true
+    },
+    {
+      "title": "Elite Promotion",
+      "price": "$3000",
+      "description": "1 month of promotion across all channels",
+      "features": [
+        "All features from the Premium Package",
+        "Up to 10 bot-based mass mailings with guaranteed reach",
+        "Promotional text under each post during entire campaign",
+        "Custom promotion strategy tailored to your project",
+        "Branded element integration (logo, brand style)",
+        "Extended support and creative optimization assistance"
+      ],
+      "contactModal": true
+    },
+    {
+      "title": "Custom Calculator",
+      "price": "Calculate",
+      "description": "Рассчитайте стоимость рекламы по вашим параметрам",
+      "features": [
+        "Выберите каналы для размещения",
+        "Укажите длительность размещения",
+        "Добавьте дополнительные опции",
+        "Получите мгновенный расчет стоимости",
+        "Индивидуальные условия для постоянных клиентов"
+      ],
+      "isCalculator": true,
+      "contactModal": true,
+      "fullWidth": true
+    }
+  ]
+}

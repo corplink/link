@@ -1,0 +1,240 @@
+{
+  "id": "private",
+  "name": "Private channels",
+  "items": [
+    {
+      "title": "IOS Malware Private",
+      "description": "Private channel with exclusive content for working with iOS and OSX (mac) malware.\n\nWhat's inside:\n• A wealth of useful information and source codes for various malicious programs for iOS and OSX\n• Tools for exploiting and testing Apple devices, including jailbreak utilities\n• Comprehensive guides on iOS/OSX vulnerability research and penetration testing\n• Tutorials on bypassing Apple's security mechanisms (Sandbox, SIP, Gatekeeper)\n• iOS app analysis tools for reverse engineering Swift/Objective-C applications\n• Methods for evading detection from Apple's built-in security features\n• Regular updates on new vulnerabilities and exploits in Apple's ecosystem\n\nAccess by subscription through the bot. Join our community of Apple security researchers!",
+      "logo": "ioslogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75974",
+      "username": "@IOSprivate",
+      "price": {
+        "month": "$50",
+        "threeMonths": "$120",
+        "lifetime": "$300"
+      }
+    },
+    {
+      "title": "Crypto Softwares Private",
+      "description": "Private channel from @CryptoWares\n\nBy subscribing, you get access to the private channel where you will find:\n• Video tutorials on smart contracts: Development in Solidity, using Truffle, Hardhat, and Remix.\n• Drainers: All types of wallet draining tools (ETH, BSC, Polygon).\n• Phishing and scam tools: Scripts for popular sites (Metamask, Binance, etc.), fake tokens (fake USDT), scam exchanges, and platforms.\n• Honeypots and bypasses: Trap scripts and methods to evade them.\n• Seed grabbers: Tools for stealing seed phrases and keys.\n• Checkers and Sweeper bots: Wallet verification and automated draining.\n• Mixers and private wallets: For transaction anonymization.\n• Trading bots: Setup for exchanges and scam schemes.\n• Monitoring and tracking: Blockchain analysis and fund tracking tools.\n• Tools for building, testing, and customizing smart contracts.\n• Access to private databases (wallets, keys, etc.)\n\nSubscribe now to master the crypto underground.",
+      "logo": "cryptologo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75998",
+      "username": "@CryptoWaresPrivate",
+      "price": {
+        "month": "$80",
+        "threeMonths": "$200",
+        "lifetime": "$500"
+      }
+    },
+    {
+      "title": "Cobalt Strike Private",
+      "description": "Private channel from @CobaltStrikers\n\nBy subscribing, you get access to the private channel where you will find:\n• Detailed video tutorials on Cobalt Strike setup, configuration, commands, and modules.\n• Demonstrations of attacks using built-in features like Beacon and lateral movement.\n• Step-by-step guides for creating a test environment.\n• Case studies of real-world Cobalt Strike usage in pentesting.\n• Reviews of new features and updates in Cobalt Strike.\n• Work with tools like Metasploit, Empire, and Brute Ratel.\n• Insights into Red Team OPSEC Toolkit and other add-ons.\n• Cobalt Strike configurations to evade detection (EDR, SIEM).\n• Examples of ransomware attacks with CS.\n• Tips and tricks for efficient Cobalt Strike usage.\n• Scripts, templates, and tools for automation.\n• Access to private courses, databases, and custom configurations.\n• Guidance on obtaining a license or bypassing it (crack).",
+      "logo": "cslogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75995",
+      "username": "@CSPrivate",
+      "price": {
+        "month": "$90",
+        "threeMonths": "$240",
+        "lifetime": "$600"
+      }
+    },
+    {
+      "title": "Project Malwara Private",
+      "description": "PRIVATE CHANNEL FOR LEARNING\n\nWe offer exclusive access to high-quality courses designed for beginners and professionals looking to advance their skills in the field of cybersecurity:\n\n• Beginner and Advanced Courses: Comprehensive materials for those starting out or aiming to reach a new level of expertise.\n\n• Reverse Engineering: Learn methods for analyzing software, identifying vulnerabilities, and reconstructing code logic.\n\n• Penetration Testing: Master the skills of vulnerability assessment and simulation of real-world attacks.\n\n• Defense and Offense: Practical techniques for building defense strategies and executing offensive operations.\n\n• Malware Development: Professional approaches to creating software for research and educational purposes.\n\n\nAll courses are verified, up-to-date, and regularly refreshed. Join the channel to access the best educational resources in cybersecurity!",
+      "logo": "mcorplogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75986",
+      "username": "@ProjectMalwara",
+      "price": {
+        "month": "$100",
+        "threeMonths": "$250",
+        "lifetime": "$600"
+      }
+    },
+    {
+      "title": "ChatGPT Bypass Private",
+      "description": "Hi! Welcome to our ChatGPT Jailbreaks service! 🔓\n\nHere you will find exclusive solutions to unlock all the capabilities of ChatGPT. If you have any questions or need assistance, just message us — we are always ready to help!\n\nWhat's inside:\n• Latest working jailbreak prompts and techniques\n• Methods to bypass content filters and restrictions\n• Specialized prompts for generating restricted content\n• Tools for automating ChatGPT interactions\n• Regular updates as OpenAI patches existing bypasses\n• Custom solutions for specific use cases\n• Community-tested strategies with success rates\n• Step-by-step guides for implementing advanced bypasses",
+      "logo": "gptlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75983",
+      "username": "@ChatGPTBypassPrivate",
+      "price": {
+        "month": "$40",
+        "threeMonths": "$100",
+        "lifetime": "$250"
+      }
+    },
+    {
+      "title": "Data Cloud Private",
+      "description": "DATA CLOUD @datacloud\n\nWe provide high-quality, verified data for professional use. Our platform is divided into specialized categories to meet various needs:\n\n• Private Cloud Logs: Access untouched, authentic logs, including BA, COLD WALLETS, and GAME ACC. We ensure top-notch quality using premium traffic sources like Google Ads.\n\n• Mail:Pass Cloud: Regularly updated collections of fresh mail:pass data, tested and ready for use. Reliable and effective for any task.\n\n• Corporate Access: Exclusive corporate account data with frequent updates, including rare and hard-to-find access. Guaranteed functionality and relevance.\n\nWith regular updates, tested reliability, and a focus on quality, we are your trusted source for premium data solutions.",
+      "logo": "datalogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75980",
+      "username": "@DataCloudPrivate",
+      "price": {
+        "month": "$60",
+        "threeMonths": "$150",
+        "lifetime": "$350"
+      }
+    },
+    {
+      "title": "IoT Botnets Private",
+      "description": "Private channel from @IoTbotnets\n\nBy subscribing, you get access to the private channel where you will find:\n• Source codes of botnets and instructions for them\n• IoT exploits, bypasses\n• Source codes of stressors (50+) and DDoS panels (70+)\n• Mirai Bots (10kk+)\n• Various materials for distributing your bot\n• And much more interesting and useful for working with IoT malware",
+      "logo": "iotlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75977",
+      "username": "@IoTPrivate",
+      "price": {
+        "month": "$70",
+        "threeMonths": "$180",
+        "lifetime": "$400"
+      }
+    },
+    {
+      "title": "Malware Corp Private",
+      "description": "Private Channel from @MalwareCorp\n\nBy subscribing, you gain access to a unique channel with:\n• Builders and source codes for keyloggers, stealers, clippers, RATs, and more.\n• Cracked and original tools for malware development on Windows and cross-platform systems.\n• HVNC source codes and ready-to-use builds.\n• Pentesting courses and materials for vulnerability analysis and system exploitation.\n• Utilities and guides for malware distribution and management.\n\nPerfect for researchers and professionals looking to expand their skills in cybersecurity. Subscribe now to access an extensive collection of exclusive resources!",
+      "logo": "mcorplogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75947",
+      "username": "@MalwareCorpPrivate",
+      "price": {
+        "month": "$80",
+        "threeMonths": "$200",
+        "lifetime": "$500"
+      }
+    },
+    {
+      "title": "Android Botnets Private",
+      "description": "Private channel from @AndroidBotnets\n\nBy subscribing, you get access to the private channel where you will find:\n• Builders and source codes of various malware for Android (RAT, Loader, BankBot, Spyware, Crypter, Binder, etc.)\n• Courses on pentesting and finding vulnerabilities in Android systems\n• Various cracked versions of RAT for Android (Craxs, Cypher, Anubis, Android SPY, Phoenix, Alien, Hook, etc.)\n• Crypters and obfuscators for APK\n• Various materials for distributing your software\n• And much more interesting and useful for working with Android malware",
+      "logo": "androidlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75971",
+      "username": "@AndroidPrivate",
+      "price": {
+        "month": "$70",
+        "threeMonths": "$180",
+        "lifetime": "$400"
+      }
+    },
+    {
+      "title": "Drainer Service Private",
+      "description": "Private Channel from @DrainerService (@PhishingService)\n\nBy subscribing, you get access to the private channel where you will find:\n• Source codes for NFT drainers\n• Source codes for ETH, BNB, TRON, TON, Polygon, Avalanche, Arbitrum, Fantom, Optimism drainers (and much more – we have drainers for all networks!)\n• Modified versions of drainers\n• Bypasses\n• Ready landing pages for popular projects\n• Guides and materials for attracting traffic to your site\n• SEO courses\n• And much more interesting and useful for your work",
+      "logo": "drainerlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75968",
+      "username": "@DrainerPrivate",
+      "price": {
+        "month": "$70",
+        "threeMonths": "$180",
+        "lifetime": "$400"
+      }
+    },
+    {
+      "title": "Ransom Service Private",
+      "description": "Private channel from @RansomwareService (@RansomTeam)\n\nBy subscribing, you get access to the private channel where you will find:\n• Builders and source codes of various ransomware for Windows, as well as cross-platform software\n• Courses on pentesting systems and finding vulnerabilities in Windows systems\n• A very large selection of cracked versions and source codes of various ransomware with updates\n• Modified and custom versions of ransomware\n• Private versions\n• Various materials for distributing your software\n• And much more interesting and useful for working with ransomware",
+      "logo": "ransomlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75965",
+      "username": "@RansomPrivate",
+      "price": {
+        "month": "$80",
+        "threeMonths": "$200",
+        "lifetime": "$500"
+      }
+    },
+    {
+      "title": "Crypters Private",
+      "description": "Private channel from @Crypters (@CryptService)\n\nBy subscribing, you get access to the private channel where you will find:\n• Builders and source codes of various crypters (.NET/Native/APK)\n• Manuals and courses on developing crypters in different languages\n• Free certificates from us and instructions on how to use them\n• WD/Cloud bypasses\n• Source codes of stubs and detailed instructions on cleaning stubs\n• Polymorph engines\n• A very large selection of cracked versions and source codes of various crypters with updates\n• Apk Crypters and Bypasses\n• Modified and custom versions, as well as FUD crypters from our admins\n• Various materials on cleaning detections from your file\n• And much more interesting and useful for encrypting payloads",
+      "logo": "crypterslogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75962",
+      "username": "@CryptersPrivate",
+      "price": {
+        "month": "$60",
+        "threeMonths": "$150",
+        "lifetime": "$350"
+      }
+    },
+    {
+      "title": "Exploit Service Private",
+      "description": "Private channel from @ExploitService\n\nBy subscribing, you get access to the private channel where you will find:\n• Exploit packs\n• Manuals and courses on exploit development\n• Daily publications of new vulnerabilities and instructions on how to use them\n• Macros\n• Silent vulnerabilities for PDF, DOC, XLS, PPT Office\n• Multi-exploit builder\n• SS7 attacks\n• Modified and custom versions, POC\n• Exploit development for Windows, Linux, and more\n• Binary exploits with Python\n• Daily video demonstrations on exploiting new vulnerabilities\n• And much more interesting and useful for exploiting vulnerabilities",
+      "logo": "explogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75959",
+      "username": "@ExploitPrivate",
+      "price": {
+        "month": "$80",
+        "threeMonths": "$200",
+        "lifetime": "$500"
+      }
+    },
+    {
+      "title": "Rat Software Private",
+      "description": "Private channel from @RatSoftware\n\nBy subscribing, you get access to the private channel where you will find:\n• Builders and source codes of various malware for Windows, as well as cross-platform software\n• HVNC source codes and cracked versions\n• Courses on pentesting and finding vulnerabilities in Windows systems\n• A very large selection of cracked versions of various RATs with updates\n• Modified and custom versions of RATs\n• Various materials for distributing your software\n• And much more interesting and useful for working with RATs",
+      "logo": "ratlogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75956",
+      "username": "@RatPrivate",
+      "price": {
+        "month": "$70",
+        "threeMonths": "$180",
+        "lifetime": "$400"
+      }
+    },
+    {
+      "title": "Stealer Store Private",
+      "description": "Private channel from @StealerStore\n\nBy subscribing, you get access to the private channel where you will find:\n• Builders and source codes of various stealers\n• A very large selection of cracked versions, as well as source codes of various popular stealers with updates\n• Modified and custom versions\n• Various materials for distributing your stealer\n• And much more interesting and useful for working with stealers",
+      "logo": "steallogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75953",
+      "username": "@StealerPrivate",
+      "price": {
+        "month": "$60",
+        "threeMonths": "$150",
+        "lifetime": "$350"
+      }
+    },
+    {
+      "title": "Crack Cloud Private",
+      "description": "Private Channel by @CrackCloud\n\nBy subscribing, you get access to the private channel where you will find:\n• Cracked versions and source codes of various programs for Black Hat and White Hat activities\n• A wide range of scanners, inviters, mail spammers, checkers, and other tools\n• Courses and materials on reverse engineering and pentesting\n• And much more, all beneficial for your IT security development",
+      "logo": "CrackCloudLogo.jpg",
+      "logoPlaceholder": "Private",
+      "link": "https://t.me/MalwarePrivateBot?start=ctgr_75950",
+      "username": "@CrackCloudPrivate",
+      "price": {
+        "month": "$50",
+        "threeMonths": "$120",
+        "lifetime": "$300"
+      }
+    },
+    {
+      "title": "Buy in all [Month]",
+      "description": "All-inclusive subscription package - access to ALL private channels for 30 days!\n\nPrice: 5000 USD\n\nWhat's included:\n• Malware Cloud Archive\n• Malware Corp Private\n• Stealer Store Private\n• Exploit Service Private\n• Ransomware Service Private\n• Android Botnets Private\n• IoT Botnets Private\n• ChatGPT Bypass Private\n• Crack Cloud Private\n• Rat Software Private\n• Crypters Private\n• Drainer Service Private\n• iOS Malware Private\n• Data Cloud Private\n• Project Malwara Private\n• Mail:Pass Cloud Private\n• Corporate access by @DataCloud\n• Cobalt Strike Private\n• Crypto Softwares\n\nGet maximum value with our complete subscription package!",
+      "logo": "",
+      "logoPlaceholder": "Month",
+      "link": "https://t.me/MalwarePrivateBot?start=sub_254279",
+      "username": "@MalwarePrivateBot",
+      "price": {
+        "month": "$5000",
+        "threeMonths": "$12000",
+        "lifetime": "$25000"
+      }
+    },
+    {
+      "title": "Buy in all [Lifetime]",
+      "description": "All-inclusive LIFETIME subscription package - permanent access to ALL private channels!\n\nPrice: 7500 USD\n\nWhat's included:\n• Malware Cloud Archive\n• Malware Corp Private\n• Stealer Store Private\n• Exploit Service Private\n• Ransomware Service Private\n• Android Botnets Private\n• IoT Botnets Private\n• ChatGPT Bypass Private\n• Crack Cloud Private\n• Rat Software Private\n• Crypters Private\n• Drainer Service Private\n• iOS Malware Private\n• Data Cloud Private\n• Project Malwara Private\n• Mail:Pass Cloud Private\n• Corporate access by @DataCloud\n• Cobalt Strike Private\n• Crypto Softwares\n\nGet permanent access to our complete collection of resources with a one-time payment!",
+      "logo": "",
+      "logoPlaceholder": "Lifetime",
+      "link": "https://t.me/MalwarePrivateBot?start=sub_254219",
+      "username": "@MalwarePrivateBot",
+      "price": {
+        "month": "$7500",
+        "threeMonths": "$15000",
+        "lifetime": "$30000"
+      }
+    }
+  ]
+}

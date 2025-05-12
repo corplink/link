@@ -1,0 +1,437 @@
+{
+  "title": "MALWARE CORPORATION",
+  "subtitle": "This adapter serves as the hub for the entire malware forum ecosystem",
+  "footer": " 2025 MALWARE CORPORATION | LINKS TO THE PROJECT IN THE TELEGRAM ECOSYSTEM",
+  "logoPath": "logo/",
+  "defaultLogo": "mforumlogo.jpg",
+  "aboutText": "We are a closed project for developers, researchers, and specialists working with malware, exploits, info-stealers, drainers, fake platforms, bots, and anonymous schemes.\nOur tools and code are regularly used in private and commercial setups worldwide.\n\nMalware Corp is not just a project. It's a tool. It's a network. It's a system.\nJoin while you still can.",
+  "texts": {
+    "search": "Search...",
+    "tabs": {
+      "channels": "Channels",
+      "shops": "Markets",
+      "groups": "Groups",
+      "private": "Private Channels",
+      "pricing": "Advertising"
+    },
+    "footer": {
+      "about": "ABOUT THE CATALOG",
+      "contacts": "CONTACTS",
+      "forums": "WE ARE IN FORUMS",
+      "contactLabels": {
+        "telegram": "Telegram:",
+        "jabber": "Jabber/XMPP:",
+        "tox": "Tox ID:",
+        "pgp": "PGP:",
+        "matrix": "Matrix:",
+        "session": "Session ID:"
+      }
+    },
+    "buttons": {
+      "private": "Private",
+      "backToTop": "To the top",
+      "copy": "Copy",
+      "subscribeAll": "Subscribe to all channels",
+      "subscribeAllTitle": "Subscribe to all channels",
+      "ads": "Ads Price",
+      "mailing": "Mailing",
+      "contactUs": "Contact Us",
+      "calculate": "Calculate cost",
+      "subscriptionOptions": "Subscription Options:",
+      "month": "1 Month",
+      "threeMonths": "3 Months",
+      "lifetime": "Lifetime",
+      "adsPeriods": {
+        "24h": "24 hours",
+        "week": "Week",
+        "month": "Month",
+        "one": "One mailing",
+        "three": "Three mailings",
+        "ten": "Ten mailings"
+      },
+      "calculator": {
+        "pricingCardText": {
+          "title": "Individual Calculator",
+          "price": "Calculate",
+          "description": "Calculate the cost of advertising according to your parameters",
+          "features": [
+            "Choose channels for placement",
+            "Specify placement duration",
+            "Add additional options",
+            "Get instant cost calculation",
+            "Individual conditions for regular customers"
+          ]
+        },
+        "sectionTitles": {
+          "selectPlatforms": "Select platforms:",
+          "selectDuration": "Select duration:",
+          "shopDuration": "Select number of mailings:",
+          "additionalOptions": "Additional options:",
+          "discountSystem": "Discount system:",
+          "currentSelection": "Current selection:",
+          "totalCost": "Total cost:"
+        },
+        "options": {
+          "pinned": "Pinned post",
+          "promo": "Promotional text under each post",
+          "analytics": "Extended analytics",
+          "noAd": "Placement without \"advertisement\" mark",
+          "noCompetitors": "Placement (without competitors)",
+          "utm": "Support for UTM tags and link tracking"
+        },
+        "discounts": {
+          "labels": {
+            "tier1": "3-5 platforms:",
+            "tier2": "6-10 platforms:",
+            "tier3": "11+ platforms:",
+            "current": "Your discount:"
+          },
+          "values": {
+            "24h": {
+              "tier1": "10%",
+              "tier2": "20%",
+              "tier3": "30%"
+            },
+            "week": {
+              "tier1": "15%",
+              "tier2": "25%",
+              "tier3": "35%"
+            },
+            "month": {
+              "tier1": "20%",
+              "tier2": "30%",
+              "tier3": "40%"
+            }
+          }
+        },
+        "platformTypes": {
+          "channels": "Channel",
+          "groups": "Group",
+          "shops": "Shop"
+        },
+        "noItemsSelected": "No platforms selected",
+        "youSaved": "You saved:",
+        "unavailable": "Unavailable",
+        "totalPrice": "Total price:",
+        "ui": {
+          "selectedPlatforms": "Selected platforms:",
+          "totalCost": "Total cost:",
+          "loadingChannels": "Loading channels...",
+          "errorLoadingChannels": "Error loading channels",
+          "noAvailableChannels": "No available channels",
+          "noAvailablePlatforms": "No available platforms",
+          "notAvailable": "Not available",
+          "httpError": "HTTP error loading channels! Status: {status}"
+        }
+      }
+    },
+    "categories": {
+      "channels": {
+        "adButton": "Ads Price",
+        "contactButton": "Contact Us"
+      },
+      "groups": {
+        "adButton": "Ads Price",
+        "contactButton": "Contact Us"
+      },
+      "shops": {
+        "adButton": "Mailing",
+        "contactButton": "Contact Us"
+      }
+    },
+    "modal": {
+      "contactUsTitle": "Contact Us",
+      "closeButton": "Close",
+      "copied": "Copied!",
+      "copyError": "Error copying text"
+    },
+    "urls": {
+      "contacts": "contacts"
+    },
+    "platformTypes": {
+      "channel": "Channel",
+      "group": "Group",
+      "shop": "Shop"
+    },
+    "errors": {
+      "configLoading": "Error loading configuration",
+      "checkConsole": "Check browser console for more details",
+      "urlUpdate": "Error updating URL"
+    },
+    "info": {
+      "screenshotNote": "For convenience of communication, please send us a screenshot of the calculator with the selected parameters.",
+      "selectedChannels": "Selected platforms:",
+      "none": "none",
+      "total": "Total:",
+      "currency": "$"
+    },
+    "notifications": {
+      "copiedToClipboard": "Copied to clipboard"
+    },
+    "config": {
+      "errors": {
+        "httpError": "HTTP error! Status: {status}",
+        "categoryError": "HTTP error loading {category}! Status: {status}",
+        "errorTitle": "Error loading configuration",
+        "checkConsole": "Check browser console for more details"
+      },
+      "logs": {
+        "mainConfigLoaded": "Main config loaded successfully:",
+        "fetchStatus": "Fetch {source} config response status:",
+        "categoryLoaded": "{category} config loaded successfully:",
+        "itemsCount": "Number of items in {category}:",
+        "loadingAttempt": "Attempting to load {category}.json from config directory...",
+        "errorLoading": "Error loading {category} configuration:",
+        "pageTitleSet": "Page title set to:"
+      },
+      "defaults": {
+        "categoryNameFormat": "capitalize" 
+      }
+    },
+    "contacts": {
+      "modal": {
+        "title": "Contact Us",
+        "copySuccess": "Copied!",
+        "copyError": "Error copying text",
+        "closeButton": "×"
+      },
+      "copyDelay": 1500,
+      "truncation": {
+        "maxLength": 30,
+        "startChars": 15,
+        "endChars": 10,
+        "separator": "..."
+      },
+      "types": {
+        "telegram": { 
+          "icon": "fa-paper-plane", 
+          "label": "Telegram" 
+        },
+        "jabber": { 
+          "icon": "fa-comment-dots", 
+          "label": "Jabber/XMPP" 
+        },
+        "tox": { 
+          "icon": "fa-shield-alt", 
+          "label": "Tox ID" 
+        },
+        "session": { 
+          "icon": "fa-lock", 
+          "label": "Session ID" 
+        },
+        "default": { 
+          "icon": "fa-user" 
+        }
+      }
+    },
+    "searchSection": {
+      "noResults": "No results found",
+      "resetTooltip": "Clear search",
+      "instructions": "Enter search term...",
+      "searchTotalResults": "Total results: {count}",
+      "searchMatchesIn": "Found matches in: {categories}"
+    },
+    "ui": {
+      "shareButton": "Copy link",
+      "copySuccess": "Copied!",
+      "copyError": "Error copying",
+      "logoPlaceholder": "TG",
+      "highlightCard": {
+        "navigateToPrivate": "Navigate to private tab"
+      },
+      "buttons": {
+        "backToTop": "Back to top",
+        "subscribeAll": "Subscribe to all channels"
+      },
+      "loading": {
+        "show": "Show content",
+        "hide": "Hide loading"
+      }
+    }
+  },
+  "telegramFolder": "https://t.me/addlist/RhEJpU8lo6FkYmM0",
+  "contactInfo": {
+    "telegram": "@malwar",
+    "jabber": "malwar@thesecure.biz",
+    "tox": "4927545A5F570398E794AC23139E37598F592CA71F868AD313294E33D3E7875E701E73E01234",
+    "_pgp": "deleted",
+    "_matrix": "deleted",
+    "session": "deleted"
+  },
+  "externalLinks": [
+    {
+      "name": "XSS",
+      "url": "https://xss.is/",
+      "icon": "fas fa-code"
+    },
+    {
+      "name": "Exploit",
+      "url": "https://exploit.in/",
+      "icon": "fas fa-bug"
+    },
+    {
+      "name": "HackForums",
+      "url": "https://hackforums.net/",
+      "icon": "fas fa-users"
+    },
+    {
+      "name": "Sinister.ly",
+      "url": "https://sinister.ly/",
+      "icon": "fas fa-user-secret"
+    },
+    {
+      "name": "LOLZTEAM",
+      "url": "https://lolz.guru/",
+      "icon": "fas fa-users"
+    },
+    {
+      "name": "Dark2Webs",
+      "url": "https://dark2webs.pw/",
+      "icon": "fas fa-mask"
+    },
+    {
+      "name": "BHF Pro",
+      "url": "https://bhf.pro/",
+      "icon": "fas fa-shield-alt"
+    },
+    {
+      "name": "VLMI",
+      "url": "https://vlmi.one/",
+      "icon": "fas fa-globe"
+    },
+    {
+      "name": "Dublikat",
+      "url": "https://dublikat.cx/",
+      "icon": "fas fa-copy"
+    },
+    {
+      "name": "DWH Forum",
+      "url": "https://forum.dwh.su/",
+      "icon": "fas fa-server"
+    }
+  ],
+  "pricing": {
+    "calculator": {
+      "youSaved": "You saved:",
+      "noItemsSelected": "No platforms selected",
+      "unavailable": "Unavailable",
+      "platformTypes": {
+        "channels": "Channel",
+        "groups": "Group",
+        "shops": "Shop"
+      },
+      "discounts": {
+        "24h": {
+          "tier1": {
+            "range": "3-5 platforms",
+            "value": "10%"
+          },
+          "tier2": {
+            "range": "6-10 platforms",
+            "value": "20%"
+          },
+          "tier3": {
+            "range": "11+ platforms",
+            "value": "30%"
+          },
+          "current": "Your discount"
+        },
+        "week": {
+          "tier1": {
+            "range": "3-5 platforms",
+            "value": "15%"
+          },
+          "tier2": {
+            "range": "6-10 platforms",
+            "value": "25%"
+          },
+          "tier3": {
+            "range": "11+ platforms",
+            "value": "35%"
+          },
+          "current": "Your discount"
+        },
+        "month": {
+          "tier1": {
+            "range": "3-5 platforms",
+            "value": "20%"
+          },
+          "tier2": {
+            "range": "6-10 platforms",
+            "value": "30%"
+          },
+          "tier3": {
+            "range": "11+ platforms",
+            "value": "40%"
+          },
+          "current": "Your discount"
+        }
+      }
+    },
+    "pricingCard": {
+      "title": "Custom Calculator",
+      "price": "Calculate",
+      "description": "Calculate the cost of advertising according to your parameters",
+      "features": [
+        "Choose channels for placement",
+        "Specify placement duration",
+        "Add additional options",
+        "Get instant cost calculation",
+        "Individual conditions for regular customers"
+      ],
+      "sectionTitles": {
+        "selectPlatforms": "Select platforms:",
+        "selectDuration": "Select duration:",
+        "shopDuration": "Select number of mailings:",
+        "additionalOptions": "Additional options:",
+        "currentSelection": "Current selection:",
+        "totalCost": "Total cost:"
+      },
+      "channelTypes": [
+        { "id": "channels", "text": "Channels" },
+        { "id": "groups", "text": "Groups" },
+        { "id": "shops", "text": "Shops" }
+      ],
+      "durations": {
+        "channels": [
+          { "value": "24h", "text": "24 hours", "dataKey": "price24h" },
+          { "value": "week", "text": "Week", "dataKey": "priceWeek" },
+          { "value": "month", "text": "Month", "dataKey": "priceMonth" }
+        ],
+        "shops": [
+          { "value": "one", "text": "One mailing", "dataKey": "priceOne" },
+          { "value": "three", "text": "Three mailings", "dataKey": "priceThree" },
+          { "value": "ten", "text": "Ten mailings", "dataKey": "priceTen" }
+        ]
+      },
+      "additionalOptions": [
+        { "id": "pinned", "text": "Pinned post", "price": 50 },
+        { "id": "promo", "text": "Promotional text under each post", "price": 100 },
+        { "id": "analytics", "text": "Extended analytics", "price": 75 },
+        { "id": "noAd", "text": "Placement without \"advertisement\" mark", "price": 50 },
+        { "id": "noCompetitors", "text": "Placement (without competitors)", "price": 200 }
+      ]
+    }
+  },
+  "main": {
+    "logs": {
+      "domLoaded": "DOM fully loaded, attempting to fetch config files...",
+      "configError": "Error loading configuration:"
+    },
+    "errors": {
+      "title": "Error loading configuration",
+      "checkConsole": "Check browser console for more details",
+      "errorBox": {
+        "color": "red",
+        "background": "black",
+        "padding": "20px",
+        "margin": "20px",
+        "border": "2px solid red",
+        "position": "fixed",
+        "top": "0",
+        "left": "0",
+        "zIndex": "9999"
+      }
+    }
+  }
+}

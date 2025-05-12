@@ -1,0 +1,278 @@
+{
+  "id": "channels",
+  "name": "Channels",
+  "items": [
+    {
+      "title": "Malware Corporation",
+      "description": "A public gateway into the world of advanced malware development and cyber tooling.\n\nHere you'll find:\n• Insights into stealers, RATs, clippers, and more\n• Source leaks, builder breakdowns, and tool showcases\n• Research-driven content on exploits, distribution, and persistence\n• Educational drops for red teamers and cybersecurity pros\n\nFollow to stay connected with the pulse of the underground.",
+      "logo": "mcorplogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+WiWdjI1Z1-RiZjQy",
+      "username": "@MalwareCorp",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75947",
+        "username": "@MalwareCorpPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Crack Cloud",
+      "description": "Unlock a curated stream of cracked tools, source leaks, and security resources.\n\nInside:\n• Black Hat & White Hat utilities\n• Scanners, inviters, spammers, checkers\n• Reverse engineering & pentesting guides\n• And more for your offensive security toolkit\n\nStay updated — stay ahead.",
+      "logo": "CrackCloudLogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+-s6ABR81wv41ODFi",
+      "username": "@CrackCloud",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75950",
+        "username": "@CrackCloudPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Ransomware Team",
+      "description": "A curated space for professionals researching and developing ransomware technologies.\n\nInside you'll find:\n• Builders & source codes for Windows and cross-platform ransomware\n• Cracked & custom ransomware variants with updates\n• Pentesting guides focused on Windows vulnerability exploitation\n• Distribution tactics, private builds, and exclusive tools\n• And more resources tailored to the ransomware domain\n\nSubscribe to explore the depths of offensive security.",
+      "logo": "ransomlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+vVfuVB0-LpNmMjk0",
+      "username": "@RansomTeam",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75965",
+        "username": "@RansomPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Crypters",
+      "description": "A central hub for crypter development, evasion techniques, and payload protection.\n\nWhat's inside:\n• Builders & source codes for .NET, Native, APK crypters\n• Manuals & dev courses in multiple programming languages\n• WD/Cloud bypasses and detection-cleaning guides\n• Stub sources, polymorph engines, and certificate packs\n• Cracked & FUD crypters, custom versions, and APK-specific tools\n• Materials for stealth, persistence, and payload encryption\n\nStay ahead of detection. Subscribe now.",
+      "logo": "crypterslogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+th9rxIolBGs2OGYy",
+      "username": "@Crypters",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75962",
+        "username": "@CryptersPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Rat Software",
+      "description": "Unlock exclusive content focused on Remote Access Trojans (RATs) and offensive security.\n\nWhat's inside:\n• Builders & source codes for Windows and cross-platform RATs\n• HVNC source codes and cracked versions\n• Pentesting courses and guides for Windows vulnerability exploitation\n• Large collection of cracked RAT versions with updates\n• Custom & modified RATs for specialized needs\n• Distribution methods and tools for your software\n• And much more for mastering RATs in cybersecurity\n\nSubscribe to elevate your skills in remote exploitation and automation.",
+      "logo": "ratlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+mR70O24KAYs0Yjk6",
+      "username": "@RatSotware",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75956",
+        "username": "@RatSoftwarePrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Android Botnets",
+      "description": "Get exclusive access to Android malware tools, pentesting techniques, and exploit methods.\n\nWhat's inside:\n• Builders & source codes for Android malware (RATs, Spyware, BankBots, Crypters, and more)\n• Pentesting courses focused on Android system vulnerabilities\n• Cracked versions of popular Android RATs (Craxs, Cypher, Anubis, and more)\n• APK Crypters and obfuscators for stealth\n• Distribution techniques for Android malware\n• And much more for mastering Android exploitation\n\nSubscribe now to advance your Android penetration testing skills.",
+      "logo": "androidlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+S210KbY4rRRjNjdi",
+      "username": "@AndroidBotnets",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75971",
+        "username": "@AndroidPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "IOS Malware",
+      "description": "Gain access to exclusive content focused on iOS and macOS malware development.\n\nWhat you'll find:\n• Sources of malicious programs for iOS and OSX\n• Tools for exploiting and testing Apple devices\n• Guides on iOS/OSX vulnerability research and penetration testing\n• Continuous updates on new vulnerabilities and exploits\n• And much more for working with Apple devices and malware\n\nSubscribe now for in-depth resources on iOS/OSX exploitation.",
+      "logo": "ioslogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+tA4RnI1oREY0Mzdk",
+      "username": "@IOSmalware",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75974",
+        "username": "@IOSprivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Stealer Store",
+      "description": "Unlock exclusive access to advanced stealer tools, custom builds, and exploitation resources.\n\nWhat's inside:\n• Builders & source codes of various popular stealers\n• Large selection of cracked and updated stealer versions\n• Custom and modified stealer builds\n• Distribution tactics and tools for your software\n• And much more for mastering stealer operations\n\nSubscribe now to expand your capabilities in cyber theft.",
+      "logo": "steallogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+JrKhFumuRn4wOTJi",
+      "username": "@StealerStore",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75953",
+        "username": "@StealerPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Exploit Service",
+      "description": "Gain exclusive access to advanced exploit development tools and techniques.\n\nWhat's inside:\n• Exploit packs and payloads for multiple platforms\n• Comprehensive guides on exploit development and vulnerability research\n• Daily updates on new vulnerabilities with usage instructions\n• Silent exploits for PDF, DOC, XLS, PPT Office\n• Multi-exploit builder and POCs\n• SS7 attack tools and techniques\n• Exploit development for Windows, Linux, and more\n• Python-based binary exploits and scripts\n• Daily video demonstrations of new vulnerabilities\n• And much more for mastering vulnerability exploitation\n\nSubscribe to unlock in-depth resources and stay ahead in the world of cybersecurity exploitation.",
+      "logo": "explogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+97NVr6myIfc0Y2Vk",
+      "username": "@ExploitService",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75959",
+        "username": "@ExploitPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "IoT Botnets",
+      "description": "Unlock exclusive content for mastering IoT botnets, exploits, and DDoS techniques.\n\nWhat's inside:\n• Source codes for various botnets and detailed instructions\n• IoT vulnerabilities, exploits, and bypass techniques\n• 50+ stressor source codes and 70+ DDoS panels\n• Access to Mirai bot sources (10kk+ bots)\n• Distribution tactics and materials for bot management\n• And much more for mastering IoT-based malware operations\n\nSubscribe now to expand your capabilities in botnet and DDoS attacks.",
+      "logo": "iotlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+WiWdjI1Z1-RiZjQy",
+      "username": "@IoTbotnets",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75977",
+        "username": "@IoTprivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Drainer Corp",
+      "description": "Join the forefront of Web3 exploitation with powerful tools and resources for crypto drainers.\n\nWhat's inside:\n• Source codes for NFT and token drainers\n• Drainers for all major chains: ETH, BNB, TRON, TON, Polygon, Avalanche, Arbitrum, Fantom, Optimism & more\n• Modified versions and stealth bypasses\n• Ready-to-use landing pages for popular Web3 projects\n• Traffic generation guides and SEO-focused courses\n• And much more for building and scaling your drainer operations\n\nSubscribe now to access the ultimate toolkit for Web3 draining.",
+      "logo": "drainerlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+ZWbFYq1gI3BjNDYy",
+      "username": "@DrainerCorp",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75968",
+        "username": "@DrainerPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Crypto Wares ",
+      "description": "Explore the dark side of blockchain with tools, drainers, and scam frameworks for crypto operations.\n\nWhat's inside:\n• Video tutorials on smart contracts using Solidity, Truffle, Hardhat, Remix\n• Drainers for ETH, BSC, Polygon wallets\n• Scripts for phishing platforms, fake tokens, and scam exchanges\n• Honeypots and bypass techniques\n• Seed grabbers, checkers, and sweeper bots\n• Mixers and private wallets for anonymizing funds\n• Trading bots and automated scam setups\n• Blockchain monitoring and fund-tracking tools\n• Tools for building, testing, and customizing smart contracts\n• Access to private databases (wallets, keys, etc.)\n\nSubscribe now to master the crypto underground.",
+      "logo": "cryptologo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+J8a9uP-InNphYzMy",
+      "username": "@CryptoWares",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75998",
+        "username": "@CryptoSoftwarePrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Malware News",
+      "description": "Stay ahead with the most relevant and recent events in the world of information security.\n\nPowered by AI and automation, this channel delivers:\n• Real-time news on malware, exploits, and cyber threats\n• Coverage of APT activity, ransomware, vulnerabilities, and zero-days\n• Trusted sources like Malware.news, threat intel blogs, and CVE feeds\n• Summarized content curated by bots — no noise, just signal\n• Perfect for researchers, analysts, and cybersecurity professionals\n\nFollow to keep your InfoSec radar always sharp.",
+      "logo": "newslogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "http://t.me/MalwareNews",
+      "username": "@MalwareNews",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot",
+        "username": "@NewsPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Data Cloud",
+      "description": "Your trusted source for high-quality, verified data — organized, reliable, and ready for professional use.\n\nHere you'll find:\n• Private Cloud Logs — Authentic logs including BA, cold wallets, and game accounts sourced from premium traffic (Google Ads)\n• Mail:Pass Cloud — Constantly updated, tested mail:pass combos for efficient workflow\n• Corporate Access — Rare, valuable corporate logins with guaranteed relevance and uptime\n\nFocused on quality, freshness, and utility — DATA CLOUD delivers professional-grade solutions for your data-driven needs.",
+      "logo": "datalogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+2W-HSwv5vEA4OTcy",
+      "username": "@DataCloud",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75980",
+        "username": "@DataPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Malware GPT",
+      "description": "Explore the forefront of cyber threats with AI-driven tools and insights.\n\nWhat's inside:\n• AI-generated malware code and scripts\n• Phishing email templates and social engineering tactics\n• Guides on exploiting vulnerabilities and bypassing security measures\n• Discussions on the latest trends in AI-assisted cyberattacks\n• Resources for both offensive and defensive cybersecurity strategies\n\nStay informed and ahead in the evolving landscape of AI and cybersecurity.",
+      "logo": "gptlogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+WiWdjI1Z1-RiZjQy",
+      "username": "@MalwareGPT",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot",
+        "username": "@MalwareGPTPrivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    },
+    {
+      "title": "Cobalt Strikers",
+      "description": "Dive into the world of Cobalt Strike and advanced red teaming with our exclusive content.\n\nWhat you'll find inside:\n• Video tutorials on setup, configuration, commands, and Cobalt Strike modules\n• Demonstrations of Beacon-based attacks and lateral movement\n• Step-by-step guides for creating a test environment\n• Real-world case studies on Cobalt Strike in pentesting\n• Reviews of Cobalt Strike's latest features and updates\n• Integrations with tools like Metasploit, Empire, and Brute Ratel\n• Red Team OPSEC insights and add-on reviews\n• Detection evasion strategies (EDR, SIEM)\n• Ransomware attack walkthroughs with Cobalt Strike\n• Tips, tricks, and automation scripts for efficient usage\n• Access to private courses, databases, and custom configurations\n• Guidance on licensing or bypassing (cracking) Cobalt Strike\n\nJoin now to level up your penetration testing skills.",
+      "logo": "cslogo.jpg",
+      "logoPlaceholder": "TG",
+      "link": "https://t.me/+MGeU-cRnuZc2ZWZi",
+      "username": "@CobaltStrikers",
+      "privateChannel": {
+        "link": "https://t.me/MalwarePrivateBot?start=ctgr_75995",
+        "username": "@CSprivate"
+      },
+      "ads": {
+        "24h": "40",
+        "week": "100",
+        "month": "250"
+      }
+    }
+  ]
+}

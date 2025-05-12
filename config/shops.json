@@ -1,0 +1,58 @@
+{
+  "id": "shops",
+  "name": "Markets",
+  "items": [
+    {
+      "title": "Malware Shop Bot",
+      "description": "Your one-stop shop for advanced malware tools, source codes, and professional resources.\n\nHere you can purchase:\n• Stealers, RATs, clippers, and loaders\n• Ransomware, cryptors, botnets, and fake platforms\n• Source codes, builders, and custom malware\n• Tools for distribution, persistence, and obfuscation\n• Private drainers, phishing kits, and more\n\nEverything is categorized, regularly updated, and instantly delivered.\nFast. Secure. Anonymous.",
+      "logo": "mshoplogo.jpg",
+      "logoPlaceholder": "Shop",
+      "link": "https://t.me/MalwareShopRobot",
+      "username": "@MalwareShopBot",
+      "ads": {
+        "one": "50",
+        "three": "100",
+        "ten": "200"
+      }
+    },
+    {
+      "title": "Drainer Market Bot",
+      "description": "Marketplace for top-tier crypto drainers and related tools.\n\n• ETH, BNB, TON, TRON, SOL, and multi-chain drainers\n• NFT drainers, phishing kits, and token approval exploits\n• FUD builds, obfuscation tools, and traffic tools\n• Regular updates, private versions, and instant delivery\n\nEverything is optimized for stealth, speed, and maximum profit.",
+      "logo": "drainerlogo.jpg",
+      "logoPlaceholder": "Shop",
+      "link": "https://t.me/DrainerMarketsBot",
+      "username": "@DrainerMarketsBot",
+      "ads": {
+        "one": "50",
+        "three": "100",
+        "ten": "200"
+      }
+    },
+    {
+      "title": "Crypto Scams Bot",
+      "description": "Software, scripts, and source codes for crypto-related operations.\n\nAvailable products:\n• Sweeper bots\n• Wallet brute-force tools\n• Log checker scripts\n• Auto-withdrawal software\n• Phrase generator & checker\n• Clipper tools\n• Crypto seeds\n• Mixer source codes\n• Fake exchange/bot scripts\n• Landing pages\n• Phishing kits\n• Scam/honeypot tokens\n• Blockchain spammers\n• And more…",
+      "logo": "cryptoscamlogo.jpg",
+      "logoPlaceholder": "Shop",
+      "link": "https://t.me/CryptoScamsBot",
+      "username": "@CryptoScamsBot",
+      "ads": {
+        "one": "50",
+        "three": "100",
+        "ten": "200"
+      }
+    },
+    {
+      "title": "C2 Frameworks Bot",
+      "description": "Full-access store for Red Team and post-exploitation software.\n\nWhat's inside:\n• Cobalt Strike (cracked & custom builds)\n• Brute Ratel, Sliver, Mythic, Havoc, Manjusaka\n• Payload builders and post-exploitation kits\n• Source codes, plugins, and evasion configs\n• OPSEC tools and EDR bypass techniques",
+      "logo": "c2logo.jpg",
+      "logoPlaceholder": "Shop",
+      "link": "https://t.me/C2FrameworksBot",
+      "username": "@C2FrameworksBot",
+      "ads": {
+        "one": "50",
+        "three": "100",
+        "ten": "200"
+      }
+    }
+  ]
+}
