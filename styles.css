@@ -2328,17 +2328,32 @@ footer::before {
 
 @media (max-width: 768px) {
     .contact-item {
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        position: relative;
+        padding: 8px 40px 8px 8px; /* Отступ справа для кнопок */
+        align-items: center;
     }
     
     .contact-buttons {
-        margin-left: 28px; /* Margin under icon */
-        margin-top: 5px;
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: 0;
+        margin-top: 0;
     }
     
     .contact-item .contact-value {
-        width: 100%;
-        margin: 5px 0;
+        margin: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: none;
+    }
+    
+    .contact-label {
+        white-space: nowrap;
+        margin-right: 5px;
     }
 }
 
